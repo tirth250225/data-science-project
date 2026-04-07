@@ -14,24 +14,10 @@ def show_charts(df):
         st.plotly_chart(fig1, use_container_width=True)
 
     with col2:
-        monthly_sales = df.groupby(
-            df["Date"].dt.month
-        )["Sales"].sum().reset_index()
-
-        fig2 = px.line(
-            monthly_sales,
-            x="Date",
-            y="Sales",
-            title="Monthly Sales Trend",
-            markers=True
+        fig2 = px.bar(
+            df.groupby("State")["Profit"].sum().reset_index(),
+            x="State",
+            y="Profit",
+            title="Profit by State"
         )
         st.plotly_chart(fig2, use_container_width=True)
-
-    fig3 = px.bar(
-        df.groupby("State")["Profit"].sum().reset_index(),
-        x="State",
-        y="Profit",
-        title="Profit by State"
-    )
-
-    st.plotly_chart(fig3, use_container_width=True)

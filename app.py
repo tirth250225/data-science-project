@@ -1,52 +1,78 @@
 import streamlit as st
-from config import PAGE_TITLE
 from data_loader import load_data
-from filters import apply_filters
-from metrics import show_metrics
-from charts import show_charts
+from frontend.header import show_header
+from frontend.card import show_kpi_cards
+from frontend.sidebar import show_sidebar_filters
+from frontend.sections import (
+    show_chart_section,
+    show_india_sales_map,
+    show_state_insights
+)
 
 # -----------------------------
-# LOGIN FUNCTION
+# PAGE CONFIG
 # -----------------------------
-def login():
+st.set_page_config(
+    page_title="Sales Dashboard",
+    layout="wide"
+)
+
+# -----------------------------
+# SESSION LOGIN
+# -----------------------------
+if "logged_in" not in st.session_state:
+    st.session_state.logged_in = False
+
+
+# -----------------------------
+# LOGIN PAGE
+# -----------------------------
+def login_page():
     st.title("🔐 Login to Dashboard")
 
     username = st.text_input("Username")
     password = st.text_input("Password", type="password")
 
-    if st.button("Login"):
-        if username == "admin" and password == "1234":
-            st.session_state["logged_in"] = True
+    if st.button("Login", key="login_btn"):
+        if username == "admin" and password == "admin123":
+            st.session_state.logged_in = True
+            st.rerun()
         else:
-            st.error("Invalid username or password")
+            st.error("Invalid credentials ❌")
+
 
 # -----------------------------
-# SESSION CONTROL
+# DASHBOARD
 # -----------------------------
-if "logged_in" not in st.session_state:
-    st.session_state["logged_in"] = False
+def dashboard():
+    df = load_data()
 
-# -----------------------------
-# MAIN APP
-# -----------------------------
-if not st.session_state["logged_in"]:
-    login()
-else:
-    st.set_page_config(page_title=PAGE_TITLE, layout="wide")
+    # HEADER handles logout
+    logout_clicked = show_header()
 
-    st.title("📊 Sales Analytics Dashboard")
-
-    # Logout button
-    if st.button("Logout"):
-        st.session_state["logged_in"] = False
+    if logout_clicked:
+        st.session_state.logged_in = False
         st.rerun()
 
-    df = load_data()
-    filtered_df = apply_filters(df)
+    filtered_df = show_sidebar_filters(df)
 
-    show_metrics(filtered_df)
+    show_kpi_cards(filtered_df)
+
+    show_chart_section(filtered_df)
+
+    show_india_sales_map(filtered_df)
+
+    show_state_insights(filtered_df)
+
     st.divider()
-    show_charts(filtered_df)
-
     st.subheader("📋 Sales Data")
     st.dataframe(filtered_df, use_container_width=True)
+
+
+# -----------------------------
+# APP FLOW
+# -----------------------------
+if st.session_state.logged_in:
+    dashboard()
+else:
+    login_page()

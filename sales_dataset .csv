@@ -1,0 +1,301 @@
+State,City,Category,Sales,Profit,Quantity,Date
+Delhi,New Delhi,Electronics,5544,1375.02,4,2024-08-21
+Tamil Nadu,Chennai,Electronics,14300,3731.28,10,2024-09-17
+Maharashtra,Nagpur,Electronics,30977,7539.82,3,2024-10-06
+Maharashtra,Mumbai,Clothing,42868,7440.15,6,2024-12-25
+Karnataka,Bangalore,Electronics,1074,285.1,2,2024-07-14
+Tamil Nadu,Madurai,Clothing,43470,7740.69,8,2024-08-02
+Gujarat,Ahmedabad,Furniture,40950,12006.29,6,2024-01-08
+Tamil Nadu,Madurai,Clothing,17126,2773.81,5,2024-12-16
+Tamil Nadu,Madurai,Furniture,36428,1824.83,5,2024-12-12
+Maharashtra,Pune,Electronics,19608,5056.81,8,2024-02-26
+Delhi,New Delhi,Furniture,17709,4431.97,4,2024-05-26
+Karnataka,Mysore,Electronics,42016,7049.59,1,2024-02-19
+Delhi,New Delhi,Clothing,17841,4401.84,2,2024-12-08
+Rajasthan,Udaipur,Electronics,31299,3786.45,2,2024-04-22
+Rajasthan,Udaipur,Clothing,49118,5003.44,4,2024-06-23
+Tamil Nadu,Madurai,Electronics,4275,697.24,7,2024-07-02
+Karnataka,Mangalore,Furniture,8620,596.86,9,2024-04-15
+Gujarat,Ahmedabad,Furniture,11741,1574.57,2,2024-12-10
+Karnataka,Bangalore,Clothing,12257,2045.1,2,2024-11-06
+Karnataka,Mangalore,Electronics,37999,6174.52,2,2024-05-01
+Maharashtra,Nagpur,Clothing,15991,3840.04,9,2024-12-21
+Delhi,New Delhi,Electronics,23906,6731.35,4,2024-01-10
+Karnataka,Mangalore,Furniture,45705,10696.25,10,2024-02-23
+Gujarat,Vadodara,Clothing,38486,5579.8,10,2024-10-05
+Karnataka,Mysore,Clothing,1104,244.6,1,2024-06-27
+West Bengal,Kolkata,Electronics,48923,3841.7,7,2024-10-07
+Maharashtra,Mumbai,Electronics,38784,3414.04,1,2024-03-19
+Rajasthan,Jaipur,Electronics,4078,838.58,10,2024-07-05
+Uttar Pradesh,Noida,Furniture,30483,5313.12,10,2024-01-22
+Tamil Nadu,Chennai,Clothing,18575,1741.43,6,2024-02-26
+Karnataka,Bangalore,Clothing,15783,3513.69,1,2024-03-17
+Delhi,New Delhi,Clothing,37235,5576.02,5,2024-08-24
+West Bengal,Kolkata,Electronics,24469,6436.06,1,2024-12-13
+Maharashtra,Pune,Furniture,14861,917.43,2,2024-04-15
+Rajasthan,Jaipur,Electronics,1195,228.52,3,2024-07-24
+West Bengal,Kolkata,Furniture,5081,926.52,5,2024-04-09
+Tamil Nadu,Chennai,Clothing,19126,2787.49,9,2024-05-24
+Uttar Pradesh,Kanpur,Electronics,17217,4669.64,9,2024-02-14
+Delhi,New Delhi,Clothing,47885,5106.79,4,2024-04-22
+Karnataka,Mysore,Electronics,38171,5042.97,9,2024-02-05
+Delhi,New Delhi,Furniture,23957,4607.95,4,2024-08-08
+Delhi,New Delhi,Furniture,19344,3362.22,1,2024-02-24
+Karnataka,Mangalore,Clothing,42816,11955.71,8,2024-11-28
+Rajasthan,Jaipur,Clothing,13378,1136.63,9,2024-11-08
+Karnataka,Mysore,Furniture,43441,10758.44,10,2024-04-22
+Gujarat,Surat,Furniture,40672,2190.27,2,2024-11-21
+Rajasthan,Udaipur,Clothing,6623,643.75,3,2024-08-27
+Rajasthan,Udaipur,Electronics,1928,298.04,5,2024-02-17
+Gujarat,Ahmedabad,Electronics,41812,11180.2,2,2024-03-26
+Tamil Nadu,Madurai,Electronics,28640,7250.15,9,2024-07-24
+Tamil Nadu,Chennai,Furniture,38659,9326.12,10,2024-01-19
+Karnataka,Mangalore,Clothing,33457,9934.11,5,2024-10-23
+Gujarat,Ahmedabad,Furniture,22064,2955.72,2,2024-03-11
+Gujarat,Surat,Furniture,24201,6211.31,1,2024-08-21
+Maharashtra,Nagpur,Electronics,6670,1683.18,7,2024-06-06
+Tamil Nadu,Chennai,Furniture,5135,473.23,8,2024-01-15
+West Bengal,Kolkata,Furniture,35856,2539.56,8,2024-05-06
+West Bengal,Kolkata,Electronics,12948,1033.63,7,2024-08-27
+Gujarat,Surat,Furniture,46948,2507.27,3,2024-06-21
+Karnataka,Mangalore,Electronics,27311,3854.26,5,2024-09-18
+Uttar Pradesh,Noida,Furniture,14340,871.89,10,2024-05-22
+Gujarat,Vadodara,Clothing,34396,5577.57,5,2024-08-06
+Rajasthan,Jaipur,Electronics,11434,951.24,7,2024-09-15
+Maharashtra,Pune,Clothing,16058,3139.4,7,2024-07-04
+Uttar Pradesh,Lucknow,Electronics,27520,3632.13,4,2024-09-15
+Tamil Nadu,Madurai,Furniture,36947,4126.09,8,2024-11-01
+Tamil Nadu,Coimbatore,Furniture,29132,7177.09,2,2024-10-12
+Gujarat,Ahmedabad,Clothing,24020,4603.59,8,2024-03-04
+Tamil Nadu,Chennai,Clothing,36726,5789.91,10,2024-05-06
+Rajasthan,Jaipur,Furniture,38655,8690.08,6,2024-04-23
+Delhi,New Delhi,Furniture,31785,2937.66,2,2024-05-15
+Uttar Pradesh,Lucknow,Furniture,17437,4246.85,5,2024-06-09
+Maharashtra,Pune,Electronics,2613,173.11,10,2024-11-06
+Maharashtra,Nagpur,Furniture,2488,496.31,9,2024-12-19
+Delhi,New Delhi,Furniture,2677,775.99,8,2024-11-26
+Rajasthan,Udaipur,Electronics,40921,10801.03,6,2024-01-09
+Karnataka,Bangalore,Furniture,19065,5085.73,10,2024-07-07
+Gujarat,Vadodara,Furniture,14031,785.17,5,2024-08-10
+Karnataka,Bangalore,Electronics,3626,901.29,10,2024-11-12
+Rajasthan,Udaipur,Clothing,40348,2469.2,6,2024-03-26
+Uttar Pradesh,Kanpur,Electronics,37781,9368.13,5,2024-12-13
+West Bengal,Durgapur,Furniture,5274,504.72,9,2024-06-22
+Uttar Pradesh,Lucknow,Furniture,14060,1344.76,6,2024-03-22
+Delhi,New Delhi,Furniture,27160,7281.27,5,2024-02-06
+Rajasthan,Udaipur,Electronics,14760,972.38,7,2024-06-19
+Gujarat,Vadodara,Furniture,33876,2618.02,9,2024-08-13
+Delhi,New Delhi,Furniture,6431,1912.52,3,2024-09-26
+Uttar Pradesh,Kanpur,Furniture,17744,2137.93,1,2024-07-18
+Uttar Pradesh,Noida,Furniture,46864,3155.06,10,2024-07-14
+Gujarat,Ahmedabad,Furniture,35522,7866.52,6,2024-12-26
+Rajasthan,Jaipur,Furniture,22167,2839.48,5,2024-01-20
+Gujarat,Surat,Electronics,48351,5465.9,7,2024-08-23
+Rajasthan,Jaipur,Electronics,11710,833.88,10,2024-06-09
+Delhi,New Delhi,Electronics,7260,1306.29,2,2024-12-15
+Maharashtra,Mumbai,Electronics,9103,1304.68,9,2024-08-01
+West Bengal,Kolkata,Electronics,24756,3379.69,4,2024-06-10
+Rajasthan,Jaipur,Clothing,14865,2245.46,7,2024-07-23
+Tamil Nadu,Chennai,Electronics,11931,1586.43,3,2024-02-26
+Delhi,New Delhi,Electronics,41958,6464.13,7,2024-12-25
+Karnataka,Mangalore,Clothing,10310,883.08,6,2024-11-14
+Gujarat,Vadodara,Clothing,44551,5361.38,9,2024-11-03
+Rajasthan,Jaipur,Electronics,24581,5205.66,9,2024-12-17
+Rajasthan,Jaipur,Electronics,6373,439.49,9,2024-06-20
+Maharashtra,Nagpur,Furniture,7690,1601.78,1,2024-09-20
+Gujarat,Ahmedabad,Clothing,43262,4419.55,9,2024-10-19
+Karnataka,Mysore,Clothing,24813,4309.92,1,2024-06-06
+Maharashtra,Pune,Furniture,10669,2339.54,8,2024-11-07
+Karnataka,Bangalore,Clothing,8686,1233.88,10,2024-02-13
+Karnataka,Mangalore,Furniture,1829,255.34,9,2024-01-16
+Maharashtra,Pune,Furniture,3651,987.78,10,2024-05-25
+Maharashtra,Mumbai,Clothing,31857,5192.69,9,2024-08-11
+Tamil Nadu,Coimbatore,Clothing,26622,2286.92,3,2024-05-26
+Gujarat,Ahmedabad,Electronics,12044,3453.7,10,2024-01-07
+Rajasthan,Udaipur,Clothing,14523,1964.67,7,2024-07-21
+Gujarat,Surat,Clothing,18292,928.46,5,2024-04-02
+Delhi,New Delhi,Clothing,7146,1032.35,5,2024-09-22
+Karnataka,Bangalore,Furniture,5448,1087.36,8,2024-01-01
+Delhi,New Delhi,Furniture,5053,1348.34,8,2024-08-18
+Maharashtra,Pune,Electronics,5586,1434.1,1,2024-04-21
+Gujarat,Surat,Clothing,4885,628.73,5,2024-09-10
+Karnataka,Mysore,Furniture,35999,3000.07,6,2024-05-10
+Maharashtra,Mumbai,Furniture,39370,4353.18,4,2024-05-08
+Tamil Nadu,Coimbatore,Furniture,25663,3457.36,7,2024-06-14
+Maharashtra,Nagpur,Electronics,28492,7953.03,8,2024-03-16
+Uttar Pradesh,Noida,Clothing,14479,1770.1,5,2024-06-18
+Maharashtra,Nagpur,Furniture,23646,4321.88,1,2024-07-20
+Karnataka,Bangalore,Clothing,12641,3308.29,4,2024-04-23
+West Bengal,Kolkata,Furniture,22501,5901.79,2,2024-06-25
+Maharashtra,Mumbai,Electronics,29441,4207.68,7,2024-12-09
+Rajasthan,Udaipur,Electronics,8103,2173.04,10,2024-10-07
+Uttar Pradesh,Noida,Electronics,32205,1684.18,7,2024-11-24
+Rajasthan,Udaipur,Clothing,7962,1597.5,1,2024-12-10
+Uttar Pradesh,Lucknow,Furniture,36716,5207.95,10,2024-10-07
+Gujarat,Ahmedabad,Electronics,11140,2489.33,5,2024-02-10
+Uttar Pradesh,Noida,Clothing,43412,12506.56,5,2024-07-25
+Gujarat,Surat,Clothing,32599,1711.47,2,2024-04-03
+Gujarat,Surat,Electronics,26849,4826.45,3,2024-12-05
+Karnataka,Bangalore,Furniture,47371,6247.54,6,2024-09-02
+West Bengal,Kolkata,Electronics,38394,5954.72,2,2024-05-12
+Uttar Pradesh,Kanpur,Electronics,37370,7668.71,5,2024-02-26
+West Bengal,Kolkata,Furniture,37332,6950.33,3,2024-08-27
+Uttar Pradesh,Noida,Clothing,14636,1723.36,7,2024-11-15
+Tamil Nadu,Chennai,Furniture,23179,5871.63,8,2024-06-09
+Delhi,New Delhi,Clothing,47310,3514.22,1,2024-09-25
+Delhi,New Delhi,Clothing,41305,7152.03,3,2024-02-07
+Karnataka,Mangalore,Furniture,30497,9086.66,10,2024-10-18
+Rajasthan,Udaipur,Furniture,45111,6109.08,10,2024-07-25
+Delhi,New Delhi,Electronics,7580,1285.72,7,2024-11-27
+Uttar Pradesh,Kanpur,Electronics,40426,6964.33,7,2024-09-08
+Tamil Nadu,Chennai,Clothing,46345,3527.71,6,2024-11-27
+Delhi,New Delhi,Electronics,46462,2871.21,3,2024-01-07
+Karnataka,Mysore,Furniture,43047,3647.9,2,2024-06-21
+Rajasthan,Udaipur,Electronics,33356,7868.12,10,2024-10-07
+Tamil Nadu,Chennai,Clothing,15762,2865.31,2,2024-12-25
+West Bengal,Kolkata,Clothing,14803,2760.67,3,2024-02-02
+Tamil Nadu,Coimbatore,Electronics,45069,8843.49,3,2024-02-03
+West Bengal,Durgapur,Electronics,23615,3866.17,7,2024-01-16
+Maharashtra,Nagpur,Furniture,40872,10205.45,6,2024-07-26
+Karnataka,Mysore,Furniture,20338,2564.54,6,2024-05-18
+Gujarat,Surat,Electronics,35118,3812.39,2,2024-07-28
+Rajasthan,Jaipur,Clothing,15545,3842.64,3,2024-01-04
+West Bengal,Kolkata,Clothing,48930,7551.13,3,2024-09-23
+Maharashtra,Nagpur,Furniture,34008,5315.09,2,2024-05-25
+Gujarat,Surat,Electronics,28105,5056.07,5,2024-08-20
+West Bengal,Durgapur,Electronics,44511,5985.37,4,2024-02-14
+Karnataka,Mangalore,Clothing,22025,5952.8,4,2024-04-14
+Tamil Nadu,Coimbatore,Electronics,9149,1672.48,3,2024-10-05
+Rajasthan,Udaipur,Furniture,33739,7866.65,3,2024-06-12
+Gujarat,Vadodara,Furniture,23557,3184.06,3,2024-11-23
+Gujarat,Surat,Furniture,24067,6873.44,4,2024-05-04
+Rajasthan,Jaipur,Electronics,22845,3289.82,1,2024-12-04
+Tamil Nadu,Madurai,Furniture,38991,9727.63,10,2024-11-17
+Delhi,New Delhi,Electronics,12220,3499.59,3,2024-09-04
+Gujarat,Ahmedabad,Clothing,21711,5928.63,9,2024-08-02
+Karnataka,Mangalore,Furniture,46188,5632.42,4,2024-04-18
+Delhi,New Delhi,Furniture,20402,5140.34,2,2024-08-15
+Maharashtra,Nagpur,Electronics,24762,4143.66,3,2024-09-23
+Uttar Pradesh,Lucknow,Clothing,14341,954.87,8,2024-08-09
+West Bengal,Durgapur,Electronics,26550,7186.99,7,2024-04-07
+Tamil Nadu,Coimbatore,Clothing,40095,6468.8,10,2024-01-03
+Delhi,New Delhi,Electronics,40711,6146.02,9,2024-08-16
+Rajasthan,Jaipur,Furniture,48624,12316.35,6,2024-09-01
+Rajasthan,Jaipur,Clothing,8102,1051.29,2,2024-11-03
+Delhi,New Delhi,Clothing,21595,3506.7,10,2024-07-26
+Uttar Pradesh,Lucknow,Furniture,12651,1294.03,1,2024-02-06
+Maharashtra,Mumbai,Clothing,44600,6077.26,2,2024-04-26
+Karnataka,Mysore,Furniture,30552,3497.92,9,2024-05-03
+Delhi,New Delhi,Clothing,34174,5649.53,1,2024-05-11
+Tamil Nadu,Coimbatore,Furniture,43076,6795.2,3,2024-11-26
+Gujarat,Surat,Clothing,34420,5480.2,5,2024-09-01
+Uttar Pradesh,Kanpur,Electronics,3097,742.46,5,2024-02-14
+Maharashtra,Nagpur,Furniture,47570,11279.58,10,2024-04-28
+Delhi,New Delhi,Clothing,12993,1938.51,10,2024-05-07
+Maharashtra,Pune,Furniture,24253,2273.94,7,2024-07-20
+Rajasthan,Udaipur,Furniture,49543,13586.2,8,2024-01-09
+Uttar Pradesh,Noida,Electronics,29761,8887.55,8,2024-02-22
+Gujarat,Surat,Clothing,38550,4097.14,1,2024-04-12
+Rajasthan,Jaipur,Electronics,43588,9080.25,2,2024-08-10
+Gujarat,Ahmedabad,Furniture,41552,3837.27,4,2024-02-07
+Rajasthan,Udaipur,Clothing,3380,527.99,6,2024-01-22
+Uttar Pradesh,Noida,Clothing,9313,469.14,10,2024-12-27
+Delhi,New Delhi,Electronics,20738,1739.55,10,2024-12-04
+Karnataka,Bangalore,Clothing,40909,4620,1,2024-07-13
+Tamil Nadu,Chennai,Furniture,41566,11762.7,10,2024-07-09
+Maharashtra,Mumbai,Electronics,18749,3237.08,7,2024-10-22
+Rajasthan,Jaipur,Electronics,17587,4928.01,4,2024-09-25
+Uttar Pradesh,Lucknow,Furniture,14303,1669.99,2,2024-08-23
+Karnataka,Mangalore,Clothing,23660,6333.36,1,2024-10-05
+Delhi,New Delhi,Clothing,7149,1792.84,5,2024-04-15
+Rajasthan,Jaipur,Clothing,23173,2588.29,9,2024-02-20
+Gujarat,Surat,Clothing,5514,863.46,2,2024-09-14
+Delhi,New Delhi,Furniture,29729,4862.8,8,2024-12-19
+Maharashtra,Pune,Electronics,32938,4809.21,10,2024-12-01
+West Bengal,Kolkata,Clothing,48572,11568.27,3,2024-04-28
+Rajasthan,Jaipur,Furniture,17658,2056.24,2,2024-12-12
+Rajasthan,Jaipur,Clothing,37757,10676,10,2024-02-13
+Tamil Nadu,Chennai,Furniture,8905,688.12,8,2024-11-01
+Maharashtra,Pune,Electronics,9916,505.08,9,2024-01-04
+Gujarat,Vadodara,Furniture,22045,2776.73,10,2024-11-11
+Delhi,New Delhi,Electronics,25486,2057.01,1,2024-09-18
+Delhi,New Delhi,Electronics,43502,6087.13,10,2024-09-11
+Delhi,New Delhi,Electronics,13163,3419.09,6,2024-05-13
+Delhi,New Delhi,Clothing,12766,1091.19,5,2024-01-15
+Uttar Pradesh,Lucknow,Clothing,35779,4742.61,5,2024-03-24
+Karnataka,Bangalore,Electronics,20313,1808.34,8,2024-05-01
+Rajasthan,Udaipur,Furniture,21081,4559.38,8,2024-04-28
+West Bengal,Durgapur,Electronics,18084,5334.7,9,2024-04-04
+Maharashtra,Nagpur,Furniture,13373,3251.61,1,2024-09-24
+Gujarat,Ahmedabad,Clothing,35793,9372.03,8,2024-08-26
+Tamil Nadu,Coimbatore,Electronics,6094,839.97,10,2024-12-05
+Gujarat,Vadodara,Clothing,14031,1715.58,5,2024-11-28
+Maharashtra,Nagpur,Electronics,37109,3320.25,9,2024-12-21
+Delhi,New Delhi,Furniture,13696,1473.16,9,2024-09-07
+Rajasthan,Jaipur,Electronics,31842,5676.57,1,2024-12-01
+Rajasthan,Udaipur,Furniture,16978,2425.99,1,2024-06-01
+Maharashtra,Nagpur,Electronics,7593,676.3,7,2024-07-16
+Gujarat,Vadodara,Electronics,38280,2317.21,3,2024-09-14
+Delhi,New Delhi,Clothing,43435,4739.75,3,2024-04-14
+Tamil Nadu,Chennai,Furniture,46715,8720.41,10,2024-02-27
+Maharashtra,Pune,Clothing,40057,6119.78,3,2024-04-03
+Rajasthan,Udaipur,Electronics,8697,1169.97,6,2024-08-01
+West Bengal,Kolkata,Clothing,11587,2638.93,6,2024-09-03
+Karnataka,Mangalore,Furniture,16045,2514.57,5,2024-02-05
+Rajasthan,Jaipur,Clothing,33035,5773.76,5,2024-02-14
+Maharashtra,Nagpur,Clothing,19517,3536.98,3,2024-06-09
+Tamil Nadu,Madurai,Furniture,21170,2872.31,1,2024-03-09
+Rajasthan,Udaipur,Clothing,3915,1095.59,1,2024-03-02
+Delhi,New Delhi,Clothing,21603,1941.19,8,2024-02-28
+Gujarat,Vadodara,Furniture,27199,4970.17,8,2024-04-11
+Tamil Nadu,Chennai,Clothing,4956,827.84,7,2024-08-23
+Maharashtra,Pune,Electronics,22043,3673.49,4,2024-02-24
+Gujarat,Surat,Clothing,44765,7732.12,7,2024-08-13
+West Bengal,Kolkata,Furniture,10008,1024.72,3,2024-03-21
+West Bengal,Kolkata,Electronics,29281,2071.33,10,2024-03-02
+Gujarat,Surat,Clothing,27735,2343.19,8,2024-02-27
+Karnataka,Bangalore,Clothing,13493,2444.94,2,2024-10-20
+Karnataka,Bangalore,Clothing,36442,10775.81,1,2024-06-23
+Karnataka,Mysore,Furniture,22544,2383.4,4,2024-03-25
+Karnataka,Mysore,Electronics,49951,8320.92,1,2024-04-04
+West Bengal,Durgapur,Electronics,45220,6996.24,4,2024-07-21
+Delhi,New Delhi,Clothing,23170,1383.72,8,2024-09-12
+Karnataka,Bangalore,Electronics,37970,9360.56,9,2024-07-10
+Maharashtra,Nagpur,Clothing,37797,4435.85,7,2024-02-04
+Rajasthan,Udaipur,Electronics,17900,3460.44,6,2024-11-01
+Delhi,New Delhi,Electronics,9563,2863.28,4,2024-05-14
+Delhi,New Delhi,Furniture,13569,2542.03,1,2024-03-08
+Maharashtra,Nagpur,Furniture,31474,6669.53,5,2024-10-06
+Tamil Nadu,Coimbatore,Furniture,28018,7517.47,6,2024-06-19
+Karnataka,Mysore,Electronics,40736,12126.11,2,2024-01-25
+Karnataka,Bangalore,Furniture,13660,3896.02,2,2024-11-01
+Maharashtra,Mumbai,Clothing,10011,2064.95,10,2024-02-02
+Gujarat,Surat,Furniture,47758,4513.05,10,2024-02-16
+Rajasthan,Jaipur,Furniture,45503,12752.07,6,2024-10-27
+Rajasthan,Udaipur,Furniture,16488,2702.41,10,2024-04-19
+Gujarat,Surat,Clothing,1848,420.09,4,2024-06-12
+Tamil Nadu,Coimbatore,Electronics,15622,3120.34,2,2024-03-19
+Maharashtra,Pune,Electronics,10410,1706.97,9,2024-07-08
+West Bengal,Kolkata,Electronics,36478,9805.47,3,2024-04-07
+Delhi,New Delhi,Clothing,2357,552.15,1,2024-09-17
+Delhi,New Delhi,Electronics,34614,4103.14,1,2024-05-13
+Karnataka,Mysore,Electronics,25391,5077.24,1,2024-07-12
+Maharashtra,Nagpur,Furniture,15676,1751.47,5,2024-04-10
+Rajasthan,Udaipur,Clothing,20757,5465,3,2024-08-05
+Karnataka,Mangalore,Electronics,8794,496.6,7,2024-08-27
+Gujarat,Ahmedabad,Electronics,5328,1086.54,6,2024-11-16
+Uttar Pradesh,Noida,Electronics,34141,3133.7,8,2024-10-07
+Delhi,New Delhi,Furniture,16713,944.05,7,2024-06-18
+West Bengal,Durgapur,Clothing,41574,6058.8,3,2024-03-06
+Gujarat,Ahmedabad,Clothing,34130,3761.47,2,2024-10-01
+Maharashtra,Nagpur,Electronics,10157,1152.95,7,2024-05-01
+Rajasthan,Jaipur,Clothing,42312,11765.38,2,2024-08-20
+Tamil Nadu,Coimbatore,Electronics,23019,3004.87,4,2024-10-08
+Uttar Pradesh,Noida,Clothing,4012,315.87,9,2024-05-15
+Delhi,New Delhi,Furniture,20291,1379.9,10,2024-11-09
+Maharashtra,Nagpur,Furniture,21862,3116.75,9,2024-07-09
+Tamil Nadu,Coimbatore,Electronics,45044,8259.09,8,2024-09-24
+Tamil Nadu,Coimbatore,Electronics,3574,568.16,2,2024-04-04
+Delhi,New Delhi,Furniture,16176,3533.78,6,2024-09-18
+Uttar Pradesh,Lucknow,Electronics,37277,9573.07,3,2024-01-22
+Tamil Nadu,Coimbatore,Electronics,19026,4793.14,8,2024-04-27

@@ -7,9 +7,12 @@ def show_metrics(df):
     avg_sales = np.mean(df["Sales"])
     total_qty = np.sum(df["Quantity"])
 
-    col1, col2, col3, col4 = st.columns(4)
+    margin = (total_profit / total_sales) * 100
+
+    col1, col2, col3, col4, col5 = st.columns(5)
 
     col1.metric("Total Sales", f"{total_sales:,.0f}")
     col2.metric("Total Profit", f"{total_profit:,.2f}")
     col3.metric("Average Sales", f"{avg_sales:,.2f}")
     col4.metric("Quantity Sold", f"{total_qty}")
+    col5.metric("Profit Margin", f"{margin:.2f}%")
